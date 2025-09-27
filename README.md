@@ -1,7 +1,8 @@
-
 # Cotización del dólar — Landing Dark (PHP/HTML/CSS)
 
-Landing minimalista en **modo dark** que muestra:
+
+![Descripción de la imagen](https://i.imgur.com/98vQPxK.png)
+
 - Dólar **Oficial**, **Blue**, **MEP/Bolsa**, **CCL**, **Cripto** y **Tarjeta** (compra/venta).
 - **Brecha** vs. Oficial (para Blue/MEP/CCL/Cripto/Tarjeta).
 - **Conversor rápido** ARS ↔ USD (usa *venta* del tipo seleccionado).
