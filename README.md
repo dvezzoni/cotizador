@@ -1,5 +1,5 @@
 
-# 🖤 Cotización del dólar — Landing Dark (PHP/HTML/CSS)
+# Cotización del dólar — Landing Dark (PHP/HTML/CSS)
 
 Landing minimalista en **modo dark** que muestra:
 - Dólar **Oficial**, **Blue**, **MEP/Bolsa**, **CCL**, **Cripto** y **Tarjeta** (compra/venta).
@@ -71,15 +71,5 @@ dolar-landing/
 
 ---
 
-## 🖼️ SEO
-
-- Title y meta/OG básicos incluidos en `index.php`.
-- `assets/img/og.png` como imagen por defecto (podés reemplazarla).
-- Footer con marca **Underc0de**.
-
----
-
 Hecho con 💙 para **Underc0de**.
 
-
-- **Mayorista**: nueva card con compra/venta y brecha vs. oficial.
